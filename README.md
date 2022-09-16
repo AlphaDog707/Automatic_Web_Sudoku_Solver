@@ -1,11 +1,13 @@
 # Automatic_Web_Sudoku_Solver
 
-##Description: 
+**Description:** 
 This script will help users to solve online sudoku puzzles. 
 
-##steps:
+**steps:**
 -Step 1: 
 Run the script using pycharm or your prefered IDE. The script will ask for input. 
+
+
 -Step 2: 
 Go to https://sudoku.com/  and input row wise. For blank spaces in the puzzle, give "0" as an input without any space. 
 For Example, one sample input of the rows would be like this, "1000050000".
